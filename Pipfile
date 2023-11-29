@@ -12,6 +12,8 @@ jupyterlab = "*"
 statsmodels = "*"
 numpy = "*"
 matplot = "*"
+wrds = "*"
+tqdm = "*"
 
 [dev-packages]
 
